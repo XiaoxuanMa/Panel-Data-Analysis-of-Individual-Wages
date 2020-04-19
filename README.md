@@ -1,4 +1,4 @@
-# Panel Data of Individual Wages Analysis  
+# Panel Data Analysis of Individual Wages 
 This is an open-book test completed in R and PowerPoint.  
 I highlighted three descriptive facts from the data with supporting analysis and graphs.  
 I found out the logarithm of wage is slightly leptokurtic & negative skew distributed.  
